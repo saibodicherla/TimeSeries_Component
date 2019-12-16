@@ -21,7 +21,7 @@ or using Yarn
 yarn start
 ```
 
-This will run the server in development mode on [localhost:3000](http://localhost:3000)
+This will run the development server in your local host (http://localhost:3000)
 
 ## Packages
 
