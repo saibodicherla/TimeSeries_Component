@@ -1,8 +1,7 @@
 ##   React TimeSeries Application
 
 
-Build and design an Simple React Application which displays multiple performance projection time series in a
-table as well as in a chart.
+Build and design an Simple React Application which displays multiple performance projection time series Component.
 
 On [CHANGELOG] file describes the Document of project and why I decided for a certain changes. 
 
