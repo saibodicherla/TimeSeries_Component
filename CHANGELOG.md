@@ -2,13 +2,13 @@
 
 ---
 
-here I will describe all changes in code.
+Here, I will describe all changes in code.
 
 ### version 1.0.4 (14/12/2019)
 
 ---
 
-make the webpage beauty. by add style & some animations.
+Design and Build an React Web application by adding styles & some animations.
 
 **ADDED**
 
