@@ -1,13 +1,14 @@
 ##   React TimeSeries Application
 
----
 
 Build and design an Simple React Application which displays multiple performance projection time series in a
 table as well as in a chart.
 
 On [CHANGELOG] file describes the Document of project and why I decided for a certain change of all steps. 
 
-### Run Script
+## Run Script
+
+---
 
 ```bash
 npm run start
@@ -19,11 +20,13 @@ or using Yarn
 yarn start
 ```
 
-this will run the server in development mode on [localhost:3000](http://localhost:3000)
+This will run the server in development mode on [localhost:3000](http://localhost:3000)
 
-### Packages
+## Packages
 
-every package listed here is used for some reason. some it's cores & essantial.
+---
+
+I described each and every package here which i utilized in the projec. some it's cores & essantial.
 
 -   packages to use directly in project :
 
