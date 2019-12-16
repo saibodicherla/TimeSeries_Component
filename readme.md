@@ -1,6 +1,6 @@
-### Asignment Test
+##   React TimeSeries Application
 
---
+---
 
 Build and design an Simple React Application which displays multiple performance projection time series in a
 table as well as in a chart.
