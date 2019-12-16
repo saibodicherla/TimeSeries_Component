@@ -8,7 +8,7 @@ On [CHANGELOG] file describes the Document of project and why I decided for a ce
 
 ## Run Script
 
----
+
 
 ```bash
 npm run start
@@ -24,7 +24,6 @@ This will run the server in development mode on [localhost:3000](http://localhos
 
 ## Packages
 
----
 
 I described each and every package here which i utilized in the projec. some it's cores & essantial.
 
@@ -41,7 +40,10 @@ I described each and every package here which i utilized in the projec. some it'
 | react-dom        | ^16.12.0       |                                                                     |
 | react-router-dom | ^5.1.2         | make Routes in pagedirectly (no server side required)               |
 
+
 -   packages used only when developement mode to fast re-assigning for some features :
+
+---
 
 | name                                    | version | description                                                                 |
 | --------------------------------------- | ------- | --------------------------------------------------------------------------- |
