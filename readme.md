@@ -1,6 +1,9 @@
 ### Asignment Test
 
-Document of the project and describe why I decided for a certain change of all steps [CHANGELOG]. 
+Build and design an Simple React Application which displays multiple performance projection time series in a
+table as well as in a chart.
+
+On [CHANGELOG] file describes the Document of project and why I decided for a certain change of all steps. 
 
 ### Run Script
 
