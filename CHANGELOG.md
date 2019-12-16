@@ -2,9 +2,9 @@
 
 ---
 
-Here, I will describe all changes in code by adding styles & some animations..
+Here, I will describe all changes on the code by adding styles & some animations..
 
-### version 1.0.4 (14/12/2019)
+### version 1.0.4 (14/12/2019) - 1hr
 
 ---
 
@@ -23,7 +23,7 @@ Here, I will describe all changes in code by adding styles & some animations..
 -	Change General Page Partitions by add `<Layout />`
 -	Change Loader Spinner instead static text.
 
-### version 1.0.3 (13/12/2019)
+### version 1.0.3 (13/12/2019) - 30 mins
 
 ---
 
@@ -39,7 +39,7 @@ added some controlers & features to app.
 -   update chart for no longer required update state of chart. (auto change on dispatch).
 -   apply new features on state data view.
 
-### version 1.0.2 (13/12/2019)
+### version 1.0.2 (13/12/2019) - 1hr
 
 ---
 
@@ -64,7 +64,7 @@ in this minor version I will change in API getting & store managmement app
 
 -   Fix non-exist options of Risk
 
-### version 1.0.1 (11/12/2019)
+### version 1.0.1 (11/12/2019) - 30mins
 
 ---
 
