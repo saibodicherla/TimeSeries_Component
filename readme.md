@@ -27,7 +27,7 @@ This will run the server in development mode on [localhost:3000](http://localhos
 
 I described each and every package here which i utilized in the projec. some it's cores & essantial.
 
--   packages to use directly in project :
+-   packages to use directly in project :-
 
 | name             | version        | description                                                         |
 | ---------------- | -------------- | ------------------------------------------------------------------- |
@@ -43,7 +43,7 @@ I described each and every package here which i utilized in the projec. some it'
 
 ---
 
--   packages used only when developement mode to fast re-assigning for some features :
+-   packages used only when developement mode to fast re-assigning for some features :-
 
 | name                                    | version | description                                                                 |
 | --------------------------------------- | ------- | --------------------------------------------------------------------------- |
