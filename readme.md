@@ -1,6 +1,6 @@
 ### Asignment Test
 
-this Project contain Change Log for All Paased Version Step located in [CHANGELOG]
+Document of the project and describe why I decided for a certain change of all steps [CHANGELOG]. 
 
 ### Run Script
 
