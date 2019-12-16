@@ -41,9 +41,9 @@ I described each and every package here which i utilized in the projec. some it'
 | react-router-dom | ^5.1.2         | make Routes in pagedirectly (no server side required)               |
 
 
--   packages used only when developement mode to fast re-assigning for some features :
-
 ---
+
+-   packages used only when developement mode to fast re-assigning for some features :
 
 | name                                    | version | description                                                                 |
 | --------------------------------------- | ------- | --------------------------------------------------------------------------- |
